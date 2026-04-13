@@ -1,70 +1,54 @@
-# 👋 Hi, I'm Sai Charan Pulugam
+# 👋 Hi, I'm Sai Charan
 
-🚀 Results-driven **Data Engineer** with 3+ years of experience building scalable data pipelines, cloud data platforms, and real-time data processing systems.
-
-I specialize in designing high-performance ETL/ELT workflows, optimizing big data processing, and delivering reliable data solutions that support business decision-making.
+I’m a Data Engineer currently working at Walmart, mostly focused on building data pipelines, fixing performance issues, and making sure data actually makes sense for downstream teams.
 
 ---
 
-## 👀 Interests
+## 👀 What I work on
 
-* Data Engineering & Data Platforms
-* Real-time Data Processing (Kafka, Streaming)
-* Cloud Data Architecture (Azure, Snowflake, AWS)
-* Data Modeling & Analytics Engineering
-
----
-
-## 🌱 Currently
-
-* Working as a **Data Engineer at Walmart**
-* Building scalable data lakes and event-driven pipelines
-* Optimizing PySpark workloads and real-time data systems
+* Building ETL/ELT pipelines using Azure Data Factory and PySpark
+* Handling large-scale data (TB-level) in distributed environments
+* Working on real-time data pipelines using Kafka and Event Hubs
+* Improving performance of Spark jobs (partitioning, joins, etc.)
 
 ---
 
-## 💼 Experience Highlights
+## 🌱 What I’m currently doing
 
-* Architected **enterprise data lake (ADLS Gen2)** integrating 10+ systems
-* Built **20+ ETL pipelines (ADF, PySpark)** improving automation significantly
-* Improved data pipeline performance by **35–40%** using Spark optimization
-* Developed **real-time pipelines with Kafka & Event Hubs**
-* Worked with **Snowflake (Snowpipe, micro-partitioning)** for high-performance analytics
-* Processed **multi-terabyte datasets (2TB–5TB daily)** with high reliability
+At Walmart, I’ve been working on:
 
----
-
-## Looking to Collaborate On
-
-* End-to-end Data Engineering projects (ETL/ELT, Lakehouse, Warehousing)
-* Real-time data streaming systems
-* Open-source data tools and analytics engineering (dbt projects)
+* Designing a centralized data lake on ADLS Gen2
+* Migrating pipelines to event-driven architecture
+* Optimizing jobs that were taking hours → now much faster
 
 ---
 
-## 🛠️ Tech Stack
+## 💞️ Open to collaborate on
 
-**Languages:**
-Python, SQL, Spark SQL
-
-**Cloud & Data Platforms:**
-Azure (ADF, Databricks, Synapse, ADLS Gen2), Snowflake, AWS (S3, Redshift), BigQuery
-
-**Big Data & Streaming:**
-PySpark, Kafka, Event Hubs, Hive, HDFS, MapReduce
-
-**Tools & DevOps:**
-Airflow, Docker, Azure DevOps, CI/CD, Terraform, Jenkins, Git
-
-**BI & Analytics:**
-Power BI, Tableau, Looker
+* Data engineering projects
+* dbt + Snowflake analytics projects
+* Anything related to real-time data or scalable systems
 
 ---
 
-## 📫 Reach Me
+## 🛠️ Tech I use a lot
 
-📧 Email: [saipcharan2023@gmail.com](mailto:saipcharan2023@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/psai-3a7156385
+Python, SQL, PySpark
+Azure (ADF, Databricks, ADLS)
+Snowflake
+Kafka
+Airflow
+
+---
+
+## 📫 Reach me
+
+📧 [saipcharan2023@gmail.com](mailto:saipcharan2023@gmail.com)
+💼 linkedin.com/in/psai-3a7156385
+
+---
+
+Still learning, still improving — just trying to build better data systems every day.
 
 ---
 
