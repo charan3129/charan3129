@@ -1,61 +1,32 @@
-# 👋 Hi, I'm Sai Charan
+# Sai Charan Pulugam
 
-I’m a Data Engineer currently working at Walmart, mostly focused on building data pipelines, fixing performance issues, and making sure data actually makes sense for downstream teams.
-
----
-
-## 👀 What I work on
-
-* Building ETL/ELT pipelines using Azure Data Factory and PySpark
-* Handling large-scale data (TB-level) in distributed environments
-* Working on real-time data pipelines using Kafka and Event Hubs
-* Improving performance of Spark jobs (partitioning, joins, etc.)
+**Data Engineer at Walmart** | Python, SQL, PySpark, Azure, Snowflake, Kafka, Airflow, dbt
 
 ---
 
-## 🌱 What I’m currently doing
+## What I do
 
-At Walmart, I’ve been working on:
-
-* Designing a centralized data lake on ADLS Gen2
-* Migrating pipelines to event-driven architecture
-* Optimizing jobs that were taking hours → now much faster
+I build scalable data pipelines that process 2TB+ daily across distributed environments. Currently at Walmart, I design cloud-based data lakes on ADLS Gen2, architect ETL/ELT pipelines using Azure Data Factory and PySpark, and optimize Spark job performance through partitioning and join tuning.
 
 ---
 
-## 💞️ Open to collaborate on
+## Tech stack
 
-* Data engineering projects
-* dbt + Snowflake analytics projects
-* Anything related to real-time data or scalable systems
-
----
-
-## 🛠️ Tech I use a lot
-
-Python, SQL, PySpark
-Azure (ADF, Databricks, ADLS)
-Snowflake
-Kafka
-Airflow
+**Cloud & Warehousing:** Azure (ADF, Databricks, Synapse, ADLS Gen2), Snowflake, AWS (S3, Redshift)  
+**Big Data & Streaming:** PySpark, Kafka, Event Hubs, Hive, HDFS  
+**Languages & Tools:** Python, SQL, Spark SQL, Airflow, dbt, Docker, Git, CI/CD, Terraform  
+**Visualization:** Power BI, Tableau  
 
 ---
 
-## 📫 Reach me
+## Featured projects
 
-📧 [saipcharan2023@gmail.com](mailto:saipcharan2023@gmail.com)
-💼 linkedin.com/in/psai-3a7156385
-
----
-
-Still learning, still improving — just trying to build better data systems every day.
+- [DBT_Ecommerce_Warehouse](link) — Kimball star schema analytics warehouse with dbt, Snowflake, 35+ tests, CI/CD
+- Real_Time_Retail_Pipeline (coming soon) — Kafka, Spark Streaming, Snowflake, Streamlit
+- Healthcare_Data_Pipeline (coming soon) — CMS Medicare API, Snowflake, dbt, Airflow
 
 ---
 
-✨ *Passionate about building scalable, reliable, and high-performance data systems that turn raw data into impactful insights.*
+## Contact
 
-
-<!---
-charan3129/charan3129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+saipcharan2023@gmail.com | [LinkedIn](https://www.linkedin.com/in/psai-3a7156385/)
