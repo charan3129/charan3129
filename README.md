@@ -21,7 +21,7 @@ I build scalable data pipelines that process 2TB+ daily across distributed envir
 
 ## Featured projects
 
-- [DBT_Ecommerce_Warehouse]((https://github.com/charan3129/dbt-Analytics-Engineering-Project)) — Kimball star schema analytics warehouse with dbt, Snowflake, 35+ tests, CI/CD
+- [DBT_Ecommerce_Warehouse]([link](https://github.com/charan3129/dbt-Analytics-Engineering-Project)) — Kimball star schema analytics warehouse with dbt, Snowflake, 35+ tests, CI/CD
 - Real_Time_Retail_Pipeline (coming soon) — Kafka, Spark Streaming, Snowflake, Streamlit
 - Healthcare_Data_Pipeline (coming soon) — CMS Medicare API, Snowflake, dbt, Airflow
 
