@@ -10,7 +10,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Hi, I'm Sai Charan!**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Engineer+at+Walmart;Building+Scalable+Pipelines+%26+Cloud+Data+Platforms;Python+%E2%80%A2+PySpark+%E2%80%A2+Snowflake+%E2%80%A2+Azure+%E2%80%A2+AWS+%E2%80%A2+Kafka+%E2%80%A2+Airflow+%E2%80%A2+dbt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Engineer+at+Walmart;Building+Scalable+Pipelines+%26+Cloud+Data+Platforms;Python+%E2%80%A2+PySpark+%E2%80%A2+Kafka+%E2%80%A2+SQL+%E2%80%A2;Snowflake+%E2%80%A2+Azure+%E2%80%A2+AWS+%E2%80%A2+Airflow+%E2%80%A2+dbt)](https://git.io/typing-svg)
 
 </div>
 
