@@ -113,9 +113,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charan3129&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only)
-![GitHub Streak](https://streak-stats.demolab.com?user=charan3129&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charan3129&layout=compact&theme=tokyonight&hide_border=true&langs_count=8#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=charan3129&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charan3129&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/charan3129)&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charan3129&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/charan3129)
 
 </div>
 
